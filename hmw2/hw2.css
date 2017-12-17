@@ -1,0 +1,29 @@
+.gr {
+      color: #39e34f;
+  }
+.red {
+    color: red;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+.line-through{
+    text-decoration:line-through
+}
+table {
+    width: 300px; /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+}
+td, th {
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    border: 1px solid black; /* Параметры рамки */
+}
+td, th {
+    background: #b0e0e6; /* Цвет фона */
+}
+img {
+    width: 50%;
+}
