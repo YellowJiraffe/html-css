@@ -1,19 +1,31 @@
+.block {
+    background: #e1e6ec;
+    width: 330px;
+    height: 350px;
+}
+.word {
+    color: darkgray;
+    font-weight: 900;
+    font-size: large;
+
+}
 .form-row {
     margin-bottom: 8px;
     overflow: hidden;
 }
+
 .img-button img {
     width: 56px;
     height: 56px;
-
-
+    padding: 0px 2px;
 
 }
+
 .form-row {
 
-    height: 19px;
+    height: 30px;
     line-height: 19px;
-    margin: 0px;
+    margin: 10px;
     padding: 0px 5px;
     width: 287px;
     border: 1px solid #ABADB3;
@@ -34,20 +46,20 @@
 }
 
 .form-row input[type=submit] {
-    padding:5px;
-    height:25px;
-    width:100%;
+    padding: 5px;
+    height: 32px;
+    width: 100%;
     line-height: 10px;
-    background: #337AB7;
-    color:white;
+    background: #66CDAA;
+    color: white;
 }
 
 .form-row input[type=submit]:hover {
-    background:#286090;
+    background: #66CDAA;
 }
 
 * {
-    font-family:arial;
-    font-size:10pt;
+    font-family: arial;
+    font-size: 10pt;
 }
 
