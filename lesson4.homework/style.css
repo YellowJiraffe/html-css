@@ -2,8 +2,15 @@
     margin-bottom: 8px;
     overflow: hidden;
 }
+.img-button img {
+    width: 56px;
+    height: 56px;
+
+
+
+}
 .form-row {
-    float: right;
+
     height: 19px;
     line-height: 19px;
     margin: 0px;
