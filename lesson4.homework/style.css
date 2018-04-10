@@ -1,10 +1,10 @@
 .block {
     background: #e1e6ec;
-    width: 330px;
-    height: 350px;
+    width: 369px;
+    height: 425px;
 }
 .word {
-    color: darkgray;
+    color: #82828c;
     font-weight: 900;
     font-size: large;
 
@@ -12,28 +12,28 @@
 .form-row {
     margin-bottom: 8px;
     overflow: hidden;
+
 }
 
 .img-button img {
-    width: 56px;
-    height: 56px;
+    width: 50px;
+    height: 50px;
     padding: 0px 2px;
 
 }
 
 .form-row {
-
-    height: 30px;
+    width: 297px;
+    height: 42px;
     line-height: 19px;
     margin: 10px;
     padding: 0px 5px;
-    width: 287px;
     border: 1px solid #ABADB3;
 }
 
 .reg-form {
     width: 369px;
-    height: 607px;
+    height: 602px;
 }
 
 .form-row textarea {
@@ -50,7 +50,7 @@
     height: 32px;
     width: 100%;
     line-height: 10px;
-    background: #66CDAA;
+    background: #b3d9da;
     color: white;
 }
 
