@@ -1,12 +1,14 @@
 .block {
     background: #e1e6ec;
-    width: 369px;
-    height: 425px;
+    width: 390px;
+    height: 450px;
 }
 .word {
     color: #82828c;
     font-weight: 900;
     font-size: large;
+    margin: 20px;
+    padding: 0px 0px;
 
 }
 .form-row {
@@ -16,22 +18,24 @@
 }
 
 .img-button img {
-    width: 50px;
-    height: 50px;
-    padding: 0px 2px;
+    width: 42px;
+    height: 42px;
+    padding: 0px 0px;
+    margin: 6px;
 
 }
 
 .form-row {
-    width: 297px;
+    width: 310px;
     height: 42px;
     line-height: 19px;
-    margin: 10px;
-    padding: 0px 5px;
-    border: 1px solid #ABADB3;
+    margin: 20px;
+    padding: 0px 0px;
+
 }
 
 .reg-form {
+    margin: 20px;
     width: 369px;
     height: 602px;
 }
@@ -40,22 +44,24 @@
     height: 90px;
     line-height: 16px;
     font-size: 12px;
-    padding: 0px 5px;
+    padding: 11px 5px;
     width: 404px;
-    border: 1px solid #ABADB3;
+
 }
 
 .form-row input[type=submit] {
     padding: 5px;
-    height: 32px;
+    height: 43px;
     width: 100%;
     line-height: 10px;
     background: #b3d9da;
     color: white;
+    font-size: 14px;
 }
 
 .form-row input[type=submit]:hover {
     background: #66CDAA;
+
 }
 
 * {
